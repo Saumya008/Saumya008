@@ -1,9 +1,9 @@
 ![Saumya Singh Banner Image](./banner.png)
 
 <h2>💻About Me<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h2>
-👩‍🎓 Hey! I'm Saumya, currently in my pre-final year pursuing B.Tech in CSE.
+👩‍🎓 Hey! I'm Saumya, a junior pursuing my Bachelors in Computer Science & Engineering.<br/>
 
-💖 I’m extremely passionate about web-development.
+<br/>💖 I’m extremely passionate about web-development.
 
 👩‍💻 Nowadays, I’m learning MERN stack and also focusing on DSA. 
 
@@ -35,6 +35,6 @@
    ![Saumya's GitHub stats](https://github-readme-stats.vercel.app/api/?username=Saumya008&theme=prussian&show_icons=true&count_private=true)
    <br />
    <br />
-   ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Saumya008&theme=prussian&hide_border=true)](https://git.io/streak-stats)
+   ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Saumya008&theme=prussian&hide_border=true)
    <br />
 
